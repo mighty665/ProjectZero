@@ -1,0 +1,5 @@
+{
+  "dashboard_host": "127.0.0.1",
+  "dashboard_port": 8765,
+  "user_agent": "ProjectZero/0.1 (private personal tool; contact: you@example.com)"
+}

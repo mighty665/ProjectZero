@@ -1,0 +1,2 @@
+# Project Zero has no third-party dependencies: it uses only the Python standard library (3.10+).
+# Nothing to pip-install. Optional future providers will be listed here when added.
